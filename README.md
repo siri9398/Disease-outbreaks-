@@ -1,4 +1,3 @@
-# Disease-outbreaks-
 {
  "cells": [
   {
