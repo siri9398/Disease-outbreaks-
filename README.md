@@ -1,5 +1,4 @@
 # Disease-outbreaks-
-Diabetes 
 {
  "cells": [
   {
